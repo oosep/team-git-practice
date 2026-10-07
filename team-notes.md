@@ -1,1 +1,1 @@
-Commit early, push often.
+Ship small, test often, commit early.
