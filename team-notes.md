@@ -1,1 +1,1 @@
-Team motto: To be decided
+Team motto: Ship small, test big.
