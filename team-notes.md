@@ -1,1 +1,1 @@
-Team motto: Ship small, test big.
+Ship small, test often, commit early.
